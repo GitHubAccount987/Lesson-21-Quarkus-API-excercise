@@ -17,7 +17,6 @@ public class TestView {
     @Inject
     PersonRepository personRepository;
 
-
     List<Person> personList;
     String name;
     int age;
